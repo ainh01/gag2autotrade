@@ -13,10 +13,10 @@ bấm clearlog để xoá log. canh lúc nào trống ok thì bấm gửi một 
 <img width="1257" height="569" alt="image" src="https://github.com/user-attachments/assets/f4589fb5-37d8-46d3-bcfa-c8e9d11a3b6c" />
 
 
-code đúng thường ở dưới cùng bắt đầu bằng 249
+thì gửi cho nó 1 cái bất kì để mình đọc code thôi. code đúng thường ở dưới cùng bắt đầu bằng 249
 <img width="1316" height="592" alt="image" src="https://github.com/user-attachments/assets/b84011e3-182d-4c3f-ba9e-fbef79430d71" />
 
-copy code.
+bấm copy code.
 
 bỏ code dưới đoạn này và gửi cho gemini hoặc chat botnào đó mà tin tưởng đc
 
